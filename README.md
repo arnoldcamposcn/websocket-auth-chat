@@ -3,7 +3,9 @@
 ## Arquitectura de Autenticación
 
 ### Almacenamiento de Tokens
-
+------------
+Seguridad - Fintech | Bancario
+------------
 **Token de Acceso (Access Token):**
 - Almacenado en **memoria** (variable JavaScript)
 - Volátil: se elimina al cerrar la pestaña/navegador
@@ -21,9 +23,7 @@
 2. **Privacidad**: Los tokens no persisten en el dispositivo
 3. **Mejores prácticas**: Alineado con OWASP recommendations
 
-------------
-Seguridad - Fintech | Bancario
-------------
+
 ## Gestión de Estado entre Profile y ProfileEdit
 
 ### Flujo de Datos
