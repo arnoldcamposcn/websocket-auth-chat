@@ -21,7 +21,9 @@
 2. **Privacidad**: Los tokens no persisten en el dispositivo
 3. **Mejores prácticas**: Alineado con OWASP recommendations
 
-
+------------
+Seguridad - Fintech | Bancario
+------------
 ## Gestión de Estado entre Profile y ProfileEdit
 
 ### Flujo de Datos
